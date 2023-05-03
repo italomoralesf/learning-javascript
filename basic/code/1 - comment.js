@@ -1,5 +1,14 @@
-// comment in-line
+// Comment in-line
 
 /*
- * comment multi-line
+ * Comment multi-line
  */
+
+/*
+|---------------------------------------------------------------
+| Example
+|---------------------------------------------------------------
+|
+| Comment multi-line
+|
+*/
